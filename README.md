@@ -2,6 +2,9 @@
 
 A Java 21 library for analyzing GPX (GPS Exchange Format) files.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Java Version](https://img.shields.io/badge/Java-21-orange.svg)](https://openjdk.org/projects/jdk/21/)
+
 ## Overview
 
 This library provides tools and utilities to parse, analyze, and manipulate GPX files, which are commonly used for storing GPS data including waypoints, tracks, and routes.
@@ -74,8 +77,8 @@ public class Example {
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For questions or issues, please create an issue in the repository.
+For questions or issues, please create an issue in the [GitHub repository](https://github.com/tgrall-sandbox/gpx-analyzer).
